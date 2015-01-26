@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${TM_RAILS_TEMPLATE_START_RUBY_EXPR}link_to "${1:link text...}", ${2:model}s_path${TM_RAILS_TEMPLATE_END_RUBY_EXPR}]]></content>
+    <tabTrigger>lipp</tabTrigger>
+    <scope>text.html.ruby, text.haml</scope>
+    <description>link_to (path plural)</description>
+</snippet>

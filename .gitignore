@@ -1,0 +1,57 @@
+# Ignore all logfiles and tempfiles.
+/0_package_control_loader
+/ActionScript
+/AppleScript
+/ASP
+/Batch File
+/bz2
+/C#
+/C++
+/Clojure
+/D
+/Diff
+/Erlang
+/Go
+/Graphviz
+/Groovy
+/Haskell
+/java
+/javaScript
+/Language - English
+/LaTeX
+/Lisp
+/Lua
+/Makefile
+/Matlab
+/Objective-C
+/OCaml
+/Perl
+/PHP
+/Plain Tasks
+/Python
+/PyV8
+/R
+/Regular Expressions
+/RestructuredText
+/Scala
+/ShellScript
+/SQL
+/TCL
+/Text
+/Textile
+/Vintage
+/YAML
+/User
+/BeautifyRuby
+/CSS
+/Default
+/Emmet
+/HTML
+/HTML5
+/LiveReload
+/Markdown
+/Package Control
+/Plain Tasks
+/XML
+
+
